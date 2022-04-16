@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right top, #f244de, #f244f2, #f29544, #f0de41, #f0d700);
+    /* background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494); */
+    }
+
+.logo
+{
+	width: 80px;margin-top: 30px;border-radius: 40px;
+}
+
+.div1{
+    text-align: center;
+}
+
+#header{
+    padding: 100px;
+}
+
+#G.T.I.S.T{
+    height: 200px;
+    width: 100px;
+    margin-left: 387px;
+    margin-top: -69px;
+}
+
